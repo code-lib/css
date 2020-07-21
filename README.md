@@ -1,2 +1,2 @@
 # CSS library
-style sheets library.
+common CSS library.
